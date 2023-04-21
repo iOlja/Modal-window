@@ -1,1 +1,1 @@
-[🚀 DEMO Modal Window](https://iolja.github.io/Modal-windows/)
+[🚀 DEMO Modal Window](https://iolja.github.io/Modal-window/)
